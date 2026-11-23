@@ -32,4 +32,5 @@ git commit -m "Initial commit"
 
 ## 参考資料
 [ゼロから始めるLean言語入門 ― 手を動かして学ぶ形式数学ライブラリ開発](https://www.lambdanote.com/products/leanbook)
+
 [Lean で手続き的プログラム の証明が書けるようになった](https://speakerdeck.com/inoueasei/slide-aa115490-ea99-4286-9de2-40794f4e861f)

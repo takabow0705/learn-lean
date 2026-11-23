@@ -1,0 +1,13 @@
+{
+  "name": "Lean 4",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "vscode",
+  "customizations": {
+    "vscode": {
+      "extensions": ["leanprover.lean4"]
+    }
+  },
+  "postCreateCommand": "lean --version"
+}
